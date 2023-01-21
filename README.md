@@ -1,3 +1,3 @@
 # Metel
 
-Moved https://gitlab.com/Escuti/metel
+Moved https://gitlab.com/Igor-Sokol/metel
